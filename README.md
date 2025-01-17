@@ -1,1 +1,1 @@
-# ubuntu-setup
+# "Setup script for Ubuntu VM"
